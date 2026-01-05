@@ -1,2 +1,2 @@
 #!/bin/sh
-./gradle/wrapper/gradle-wrapper.properties
+echo "Gradle wrapper placeholder"
